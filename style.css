@@ -1,0 +1,59 @@
+.page{
+	width: 500px;
+	margin: auto;
+	font-size: 16px;
+	font-family:'Times New Roman',Calibri ;
+	padding: 25px;
+	border: 5px solid #3388BB;
+	border-radius: 10px;
+	background-color: #ffffff; 
+}
+
+.partie1{
+	height: 200px;
+}
+
+.info{
+	float: left;
+}
+
+.photo{
+	float: right;
+	border: 3px dashed #3388BB;
+}
+
+.partie2{
+	margin-bottom: 80px;
+}
+h2{
+	font-size: 28px;
+	color: #3388BB;
+	text-transform: uppercase;
+	border-bottom: 3px solid #3388BB;
+	text-shadow: 2px 2px 3px black;
+}
+
+h3{ 
+	font-size: 16px;
+	color:#BB3333;
+	text-transform: uppercase;
+ }
+
+ body{
+ 	background-image: url(image/superman.png);
+ 	background-repeat:repeat;
+ }
+
+ p{
+ 	text-align: justify;
+ }
+
+ div ol{
+ 	display: flex;
+ 	width: 500px;
+	margin: auto;
+	font-size: 10px;
+	font-family:'Times New Roman',Calibri ;
+	padding: 25px;
+
+ }
